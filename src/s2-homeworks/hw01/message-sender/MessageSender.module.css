@@ -1,0 +1,23 @@
+.sendForm {
+    width: 800px;
+}
+
+.textarea {
+    width: 400px;
+    margin-left: 10px;
+
+}
+
+.button {
+    width: 100px;
+    height: 25px;
+    margin: 15px;
+}
+
+.button:hover {
+    color: darkslategray;
+}
+
+.button:active {
+
+}

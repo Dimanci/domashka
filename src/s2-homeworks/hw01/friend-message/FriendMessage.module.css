@@ -1,0 +1,42 @@
+.friendMessage {
+    width: 1200px;
+    display: flex;
+    margin: 20px;
+    padding: 10px;
+}
+
+.friendImageAndText {
+    flex: 1;
+    display: flex;
+    flex-direction: row;
+
+}
+
+.friendImageAndText img {
+    width: 100px;
+}
+
+.friendText {
+    padding: 10px;
+    background-color: skyblue;
+    border-radius: 30px;
+}
+
+.friendText:after {
+
+}
+
+.friendName {
+    font-family: Century;
+}
+
+.friendMessageText {
+    margin: 20px;
+    font-family: Century;
+    font-size: x-large;
+}
+
+.friendTime {
+    flex: 2;
+    font-family: "Arial Rounded MT Bold";
+}
