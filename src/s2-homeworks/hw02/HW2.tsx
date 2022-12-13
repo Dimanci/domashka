@@ -34,6 +34,7 @@ const defaultAffairs: Array<AffairType> = [ // need to fix any
     {_id: 5, name: 'html & css', priority: 'middle'},
 ]
 
+
 // pure helper functions
 export const filterAffairs = (affairs: AffairType[], filter: FilterType): AffairType[] => { // need to fix any
     if (filter === 'all') {
